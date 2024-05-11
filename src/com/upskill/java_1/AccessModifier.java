@@ -7,7 +7,7 @@ public class AccessModifier {
 
 		public 		String name = "Salman";
 		private		int age = 25;
-		protected	int ssn = 123456789;
+		protected	int ssn = 1234569;
 				String address = "Heritage tower";
 	}
 
